@@ -1,10 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Camilo</h1>
+<h3 align="center">A passionate backend developer from Colombia</h3>
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mysql,mongodb,docker,html,css)](https://skillicons.dev)
 
 <!--
-**Donkami04/Donkami04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
