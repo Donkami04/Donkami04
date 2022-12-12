@@ -2,6 +2,10 @@
 <h3 align="center">A passionate Software Developer and Materials Engineer from Colombia</h3>
 <div align="left">Software developer with SOLID best practices principles, writing well-designed, testable and efficient code, implementing and delivering scalable quality software, focused on continuous improvement through excellent communication (conversational English) and implementation of the best technologies.</div>
 <br/br>
+<div align="left">Since I was a child I am passionate about technology, I have always liked to format computers, cell phones, get into the software of my video game consoles, realizing in the end that what I really love in life is technology, so I do what I like my way of living.</div>
+<br/br>
+<div align="left">I am a professional in Materials Engineering, I decided to study this career to try to help the world through the research of environmentally friendly materials, trying to reduce the pollution that we suffer today and save the lives of many animals 💚🌍.</div>
+<br/br>
 <div align="left">You can talk to me about whatever you want, I consider myself a very social person, I like to make new friends, I love to learn about everything, I am very curious and I like everything related to engineering.</div>
 
 <h3 align="left">Languages and Tools:</h3>
