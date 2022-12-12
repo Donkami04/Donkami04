@@ -3,7 +3,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My toolbox](https://skillicons.dev/icons?i=js,nodejs,express,mysql,postgre,mongodb,docker,aws,html,css)](https://skillicons.dev)
+[![My toolbox](https://skillicons.dev/icons?i=js,nodejs,express,mysql,postgres,mongodb,docker,aws,html,css)](https://skillicons.dev)
 
 <!--
 - 🔭 I’m currently working on ...
