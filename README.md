@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Camilo</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">A passionate Software Developer and Materials Engineer from Colombia</h3>
 <div align="left">Software developer with SOLID best practices principles, writing well-designed, testable and efficient code, implementing and delivering scalable quality software, focused on continuous improvement through excellent communication (conversational English) and implementation of the best technologies.</div>
+<br/br>
+<div align="left">You can talk to me about whatever you want, I consider myself a very social person, I like to make new friends, I love to learn about everything, I am very curious and I like everything related to engineering.</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
