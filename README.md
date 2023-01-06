@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">A passionate Software Developer and Materials Engineer from Colombia</h3>
 
-<br/br>
+<br>
 <div align="left">Since I was a child I am passionate about technology, I have always liked to format computers, cell phones, get into the software of my video game consoles, realizing in the end that what I really love in life is technology, so I do what I like my way of living.</div>
 
 
